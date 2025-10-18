@@ -1,4 +1,4 @@
-package Collection.LinkedList;
+package Collection.List.LinkedList;
 
 public class LinkedList {
     public static class Node{

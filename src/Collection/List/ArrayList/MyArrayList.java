@@ -1,4 +1,4 @@
-package Collection;
+package Collection.List.ArrayList;
 
 class ArrayList<E>{
     private Object[] element;

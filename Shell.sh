@@ -1,4 +1,4 @@
 
 git add .
-git commit -m "Dynamic Array concept clear"
+git commit -m "LinkedList,Stack Learned"
 git push -u origin main
